@@ -1,0 +1,7 @@
+container - contains 12 rows if we do div row 
+
+//row
+row is a div which contain column
+div with column class must be in row parent . col div cannot be inside a col div
+when ever you define a div with row -> it divide that div in 12 column
+
